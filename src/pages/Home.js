@@ -156,7 +156,7 @@ function Home() {
                             <div >
 
                                 <CardActions className={styles.boxAcordar}>
-                                    <a href="https://wa.me/59396143453" target="_blank" rel="noreferrer">
+                                    <a href="https://wa.me/593961443453" target="_blank" rel="noreferrer">
                                         <Button size="small" className={styles.acordar}>
                                             Acordar fecha conmigo
                                         </Button>
