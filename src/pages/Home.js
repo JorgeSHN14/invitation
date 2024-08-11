@@ -130,7 +130,7 @@ function Home() {
                     <h1 className={styles.titleH}>Y qué tal si...</h1>
                 </div>
                 <div className={styles.req}>
-                    <p>Comprendo lo extraño que puede llegar a resultar, un desconocido que te viene a hablar, solo que no quiero que pienses que soy el usual <strong>"no resultó a la primera, qué mas da"</strong>, me resultaste muy agradable Lisbeth, cómo puedo considerarme ser humano si no intento algo más por esa sensación, esa <strong>«corazonada»</strong> tal cual lo expresaría un necio queriendo ir contra corriente.<br />Salgamos, una oportunidad, y si se da el caso en que pueda cautivarte quedará a tu disposición el que nos veamos vez más.</p>
+                    <p>Comprendo lo extraño que puede llegar a resultar, un desconocido que te viene a hablar, solo que no quiero que pienses que soy el usual <strong>"no resultó a la primera, qué mas da"</strong>, me resultaste muy agradable Lisbeth, cómo puedo considerarme ser humano si no intento algo más por esa sensación, esa <strong>«corazonada»</strong> tal cual lo expresaría un necio queriendo ir contra corriente.<br />Salgamos, una oportunidad, y si se da el caso en que pueda cautivarte quedará a tu disposición el que nos veamos una vez más.</p>
                     <p></p>
 
                 </div>
