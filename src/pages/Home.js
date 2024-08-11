@@ -1,4 +1,3 @@
-import { useNavigate } from "react-router-dom";
 import styles from "../css/styles.module.css";
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
